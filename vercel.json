@@ -1,0 +1,6 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": ".template/dist",
+  "installCommand": "npm install",
+  "framework": null
+}
